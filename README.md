@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentino</h1>
-<h3 align="center">Hello! I am a passionate software developer from Argentina. My goal is to build useful, high-quality projects and collaborate with a community of creative developers.</h3>
+<h3 align="center">Hello! I am a passionate full-stack software developer from Argentina. My goal is to build useful, high-quality projects and collaborate with a community of creative developers.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
